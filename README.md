@@ -27,3 +27,8 @@ de 99,87%
 próximos) e a demanda média passada é uma boa estimativa para a
 projetada, de acordo com o time de planejamento de demanda.
 Calcule, com os dados fornecidos, o estoque de segurança desejado.
+
+# Sugestões:
+  - Abra o arquivo .ipynb com google colab (isso evitará alguma necessidade de instalação de programas adicionais)
+  - Anexe o arquivo dos dados junto ao arquivo .ipynb para só depois iniciar a leitura dos códigos. 
+  - Rode as células nas sequências aos quais elas foram escritas. 
