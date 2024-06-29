@@ -6,6 +6,8 @@ Base de dados fornecido pela equipe da Owmakerscode com a finalidade educacional
 Determinando o Estoque de Segurança.
 
 Dificuldade: Alta.
+
+
 Suponha agora que você trabalha em uma empresa de produtos perecíveis, como Danone ou Nestlé. Para a empresa, é muito importante que a sua política de estoque
 seja eficiente. É necessário manter um estoque de segurança em todos os produtos (acima da previsão de vendas), pois, caso contrário, as pessoas podem não encontrar
 os produtos no supermercado. Mas, ao mesmo tempo, se o estoque estiver em excesso, isso pode representar um grande custo. Os produtos podem não ser
